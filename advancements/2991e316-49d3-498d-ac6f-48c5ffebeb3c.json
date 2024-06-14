@@ -1,0 +1,28 @@
+{
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-06-14 14:15:05 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-06-14 14:14:51 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-06-14 14:15:05 +1000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-06-14 14:14:52 +1000",
+      "minecraft:stony_shore": "2024-06-14 14:14:56 +1000"
+    },
+    "done": false
+  },
+  "DataVersion": 3578
+}
